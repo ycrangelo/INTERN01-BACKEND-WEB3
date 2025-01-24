@@ -1,0 +1,18 @@
+{
+  "name": "blokc",
+  "version": "1.0.0",
+  "description": "intern INTERN01-BACKEND-WEB3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.27.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "moralis": "^2.27.2"
+  }
+}
